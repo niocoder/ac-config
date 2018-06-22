@@ -1,1 +1,3 @@
-test=helloworld
+language:
+  en: helloworld
+  cn: 你好config
